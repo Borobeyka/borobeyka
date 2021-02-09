@@ -1,1 +1,1 @@
-![Header](https://github.com/Borobeyka/borobeyka/blob/main/assets/logotype.gif)
+[![Header](https://github.com/Borobeyka/borobeyka/blob/main/assets/logotype.gif)](https://github.com/Borobeyka)
