@@ -2,8 +2,8 @@
 
 # About me
 ## Education
-+ ### College at RTU MIREA, Moscow (2016-2020) - Programming in computer systems, software technician
 + ### RTU MIREA, Moscow (2020-2024) - Information technology, web programmer
++ ### College at RTU MIREA, Moscow (2016-2020) - Programming in computer systems, software technician
 
 ## What languages and tools I`m use
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)](https://github.com/Borobeyka)
