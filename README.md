@@ -13,5 +13,5 @@
 [![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=Arduino)](https://github.com/Borobeyka)
 
 ## Contacts
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/borobeyka/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram)](https://instagram.com/borobeyka/)
 [![VK](https://img.shields.io/badge/VKontakte-000?style=for-the-badge&logo=VK)](https://vk.com/malinkindr)
