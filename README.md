@@ -1,6 +1,6 @@
 [![Header](https://github.com/Borobeyka/borobeyka/blob/main/assets/logotype.gif)](https://github.com/Borobeyka)
 
-## About me
+# About me
 ## Education
 + ### College at RTU MIREA, Moscow (2016-2020) - Programming in computer systems, software technician
 + ### RTU MIREA, Moscow (2020-2024) - Information technology, web programmer
