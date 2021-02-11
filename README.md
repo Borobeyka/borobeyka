@@ -15,3 +15,4 @@
 ## Contacts
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram)](https://instagram.com/borobeyka/)
 [![VK](https://img.shields.io/badge/VKontakte-000?style=for-the-badge&logo=VK)](https://vk.com/malinkindr)
+[![Email](https://img.shields.io/badge/EMail-000?style=for-the-badge&logo=Gmail)](mailto:malinkindr@ya.ru)
