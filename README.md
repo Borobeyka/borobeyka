@@ -2,7 +2,7 @@
 
 # About me
 ## Education
-+ ### RTU MIREA, Moscow (2020-2024) - Information technology, web programmer
++ ### RTU MIREA, Moscow (2020-2024) - Information technology
 + ### College at RTU MIREA, Moscow (2016-2020) - Programming in computer systems, software technician
 
 <!-- ## What languages and tools I`m use
