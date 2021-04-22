@@ -5,7 +5,7 @@
 + ### RTU MIREA, Moscow (2020-2024) - Information technology
 + ### College at RTU MIREA, Moscow (2016-2020) - Programming in computer systems, software technician
         Completed an internship at SberTech JSC, a subsidiary of Sberbank PJSC, at the 3rd
-        year (5th and 6th semesters) and 4th year (8th semester).
+        year (6th semester) and 4th year (7th semester).
 
 ## What languages and tools I`m used
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)](https://github.com/Borobeyka)
