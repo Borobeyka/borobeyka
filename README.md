@@ -1,4 +1,4 @@
-[![Header](https://github.com/Borobeyka/borobeyka/blob/main/assets/logotype.gif)](https://github.com/Borobeyka)
+[![Header](https://github.com/Borobeyka/borobeyka/blob/main/assets/logotype.png)](https://github.com/Borobeyka)
 
 # About me
 ## Education
