@@ -1,5 +1,3 @@
-[![Header](https://github.com/Borobeyka/borobeyka/blob/main/assets/logotype.png)](https://github.com/Borobeyka)
-
 # About me
 ## Education
 + ### RTU MIREA, Moscow (2020-2024) - Information technology
