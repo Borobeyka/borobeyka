@@ -15,5 +15,4 @@
 
 ## Contacts
 [![Email](https://img.shields.io/badge/EMail-000?style=for-the-badge&logo=Gmail)](mailto:malinkin.d.r@ya.ru)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram)](https://instagram.com/borobeyka)
 [![VK](https://img.shields.io/badge/VKontakte-000?style=for-the-badge&logo=VK)](https://vk.com/borobeyka)
