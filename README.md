@@ -1,19 +1,19 @@
-# About me
-## Education
-+ ### RTU MIREA, Moscow (2020-2024) - Information technology
-+ ### College at RTU MIREA, Moscow (2016-2020) - Programming in computer systems, software technician
-        Completed an internship at SberTech JSC, a subsidiary of Sberbank PJSC, at the 3rd
-        year (6th semester) and 4th year (7th semester).
+# Обо мне
+## Образование
++ ### РТУ МИРЭА (2020-2024), Москва - Информационные системы и технологии
++ ### Колледж приборостроения и информационных технологий при РТУ МИРЭА (2016-2020), Москва - Программирование в компьютерных системах (техник-программист)
+        Проходил стажировку в АО "СберТех", дочерняя организация ПАО "Сбербанк" на 3 курсе (6 семестр) и 4 курсе (7 семестр).
 
-## What languages and tools I`m used
+## Какие языки программирования и средства использую
 [![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP)](https://github.com/Borobeyka)
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://github.com/Borobeyka)
+[![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=Flask)](https://github.com/Borobeyka)
 [![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=MySQL)](https://github.com/Borobeyka)
 [![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=Arduino)](https://github.com/Borobeyka)
 [![Processing](https://img.shields.io/badge/Processing-000?style=for-the-badge&logo=Processing%20Foundation)](https://github.com/Borobeyka)
 [![p5.js](https://img.shields.io/badge/p5.js-000?style=for-the-badge&logo=p5.js)](https://github.com/Borobeyka)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)](https://github.com/Borobeyka)
 
-## Contacts
+## Контакты
 [![Email](https://img.shields.io/badge/EMail-000?style=for-the-badge&logo=Gmail)](mailto:malinkin.d.r@ya.ru)
 [![VK](https://img.shields.io/badge/VKontakte-000?style=for-the-badge&logo=VK)](https://vk.com/borobeyka)
