@@ -8,11 +8,12 @@
 
 ## Мои работы
 ### Все мои представлены в данном профиле.
-### Одна из самых крупных и объемных работ на данный момент является дипломная (выпускная) работа из колледжа на 4 курсе. [Ссылка на нее](https://github.com/Borobeyka/is_3dprinters).
+### Две самые крупные и объемные работами на данный момент являются - дипломная (выпускная) работа из колледжа на 4 курсе ([КЛИК](https://github.com/Borobeyka/is_3dprinters)) и курсовая работа на 3 курсе института ([КЛИК](https://github.com/Borobeyka/rent)).
 ## Какие языки программирования и средства использую
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://github.com/Borobeyka)
 [![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=Flask)](https://github.com/Borobeyka)
-[![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=MySQL)](https://github.com/Borobeyka)
+[![MySQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=MySQL)](https://github.com/Borobeyka)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=PostgreSQL)](https://github.com/Borobeyka)
 [![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP)](https://github.com/Borobeyka)
 [![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=Arduino)](https://github.com/Borobeyka)
 [![Processing](https://img.shields.io/badge/Processing-000?style=for-the-badge&logo=Processing%20Foundation)](https://github.com/Borobeyka)
