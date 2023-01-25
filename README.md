@@ -21,4 +21,4 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)](https://github.com/Borobeyka)
 ## Контакты
 [![Email](https://img.shields.io/badge/EMail-000?style=for-the-badge&logo=Gmail)](mailto:malinkin.d.r@ya.ru)
-[![VK](https://img.shields.io/badge/VKontakte-000?style=for-the-badge&logo=VK)](https://vk.com/borobeyka)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=Telegram)]([https://vk.com/borobeyka](https://t.me/borobeyka))
