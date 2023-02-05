@@ -6,7 +6,7 @@
 
 ## Мои работы
 ### Все мои представлены в данном профиле.
-### Две самые крупные и объемные работы на данный момент являются - дипломная (выпускная) работа из колледжа на 4 курсе ([КЛИК](https://github.com/Borobeyka/is_3dprinters)) и курсовая работа на 3 курсе института (PET PROJECT) ([КЛИК](https://github.com/Borobeyka/rent)).
+### Две самые крупные и объемные работы на данный момент являются - дипломная (выпускная) работа из колледжа на 4 курсе ([КЛИК](https://github.com/Borobeyka/is_3dprinters)) и курсовая работа на 3 курсе института (pet) ([КЛИК](https://github.com/Borobeyka/rent)).
 ## Какие языки программирования и средства использую
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://github.com/Borobeyka)
 [![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=Flask)](https://github.com/Borobeyka)
