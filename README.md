@@ -9,8 +9,12 @@
 
 ### 📜 Пройденные курсы
 + #### Асинхронное программирование на Python - Яндекс.Практикум
-    + Проектные работы
-        + Первый спринт КЛИК
+    Проектные работы:
+    + Первый спринт ([КЛИК]([https://github.com/Borobeyka/rent](https://github.com/Borobeyka/async-python-sprint-1)))
+    + Второй спринт ([КЛИК]([https://github.com/Borobeyka/rent](https://github.com/Borobeyka/async-python-sprint-2)))
+    + Третий спринт ([КЛИК]([https://github.com/Borobeyka/rent](https://github.com/Borobeyka/async-python-sprint-3)))
+    + Четвертый спринт ([КЛИК]([https://github.com/Borobeyka/rent](https://github.com/Borobeyka/async-python-sprint-4)))
+    + Пятый спринт ([КЛИК](https://github.com/Borobeyka/async-python-sprint-5)))
 
 ### 📈 Две крупные и объемные работы на данный момент:
 📝 Дипломная (выпускная) работа из колледжа на 4 курсе ([КЛИК](https://github.com/Borobeyka/is_3dprinters))
