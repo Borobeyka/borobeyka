@@ -17,8 +17,8 @@
     + Пятый спринт ([КЛИК](https://github.com/Borobeyka/async-python-sprint-5)))
 
 ### 📈 Две крупные и объемные работы на данный момент:
-📝 Дипломная (выпускная) работа из колледжа на 4 курсе ([КЛИК](https://github.com/Borobeyka/is_3dprinters))
-📝 Курсовая работа на 3 курсе института (pet) ([КЛИК](https://github.com/Borobeyka/rent))
++ 📝 Дипломная (выпускная) работа из колледжа на 4 курсе ([КЛИК](https://github.com/Borobeyka/is_3dprinters))
++ 📝 Курсовая работа на 3 курсе института (pet) ([КЛИК](https://github.com/Borobeyka/rent))
 
 ## Стек
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://github.com/Borobeyka)
@@ -38,3 +38,4 @@
 ## Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=Telegram)](https://t.me/borobeyka)
 [![Email](https://img.shields.io/badge/EMail-000?style=for-the-badge&logo=Gmail)](mailto:malinkin.d.r@ya.ru)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram)](https://instagram.com/borobeyka)
