@@ -18,6 +18,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=FastAPI)](https://github.com/Borobeyka)
 [![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)](https://github.com/Borobeyka)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=PostgreSQL)](https://github.com/Borobeyka)
+[![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB)](https://github.com/Borobeyka)
 [![MS_SQL_Server](https://img.shields.io/badge/MS_SQL_Server-000?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/Borobeyka)
 [![DockerCompose](https://img.shields.io/badge/Docker_Compose-000?style=for-the-badge&logo=docker)](https://github.com/Borobeyka)
 [![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP)](https://github.com/Borobeyka)
