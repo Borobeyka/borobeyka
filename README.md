@@ -10,7 +10,7 @@
 ### 📜 Пройденные курсы
 + #### Асинхронное программирование на Python - Яндекс.Практикум (2023)
     Проектные работы по спринтам:
-    [Первая](https://github.com/Borobeyka/async-python-sprint-1), [вторая](https://github.com/Borobeyka/async-python-sprint-2), [третья](https://github.com/Borobeyka/async-python-sprint-3),
+    [первая](https://github.com/Borobeyka/async-python-sprint-1), [вторая](https://github.com/Borobeyka/async-python-sprint-2), [третья](https://github.com/Borobeyka/async-python-sprint-3),
     [четвертая](https://github.com/Borobeyka/async-python-sprint-4), [пятая](https://github.com/Borobeyka/async-python-sprint-5)
 
 ### 📈 Две крупные и объемные работы на данный момент:
