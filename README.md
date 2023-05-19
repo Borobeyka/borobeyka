@@ -8,13 +8,10 @@
 ### 📚 Все работы представлены в данном профиле
 
 ### 📜 Пройденные курсы
-+ #### Асинхронное программирование на Python - Яндекс.Практикум
++ #### Асинхронное программирование на Python - Яндекс.Практикум (2023)
     Проектные работы по спринтам:
-    + Первый спринт ([КЛИК](https://github.com/Borobeyka/async-python-sprint-1))
-    + Второй спринт ([КЛИК](https://github.com/Borobeyka/async-python-sprint-2))
-    + Третий спринт ([КЛИК](https://github.com/Borobeyka/async-python-sprint-3))
-    + Четвертый спринт ([КЛИК](https://github.com/Borobeyka/async-python-sprint-4))
-    + Пятый спринт ([КЛИК](https://github.com/Borobeyka/async-python-sprint-5)))
+    [Первая](https://github.com/Borobeyka/async-python-sprint-1), [вторая](https://github.com/Borobeyka/async-python-sprint-2), [третья](https://github.com/Borobeyka/async-python-sprint-3),
+    [четвертая](https://github.com/Borobeyka/async-python-sprint-4), [пятая](https://github.com/Borobeyka/async-python-sprint-5)
 
 ### 📈 Две крупные и объемные работы на данный момент:
 + 📝 Дипломная (выпускная) работа из колледжа на 4 курсе ([КЛИК](https://github.com/Borobeyka/is_3dprinters))
