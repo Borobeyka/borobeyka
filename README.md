@@ -27,7 +27,6 @@
 [![MS_SQL_Server](https://img.shields.io/badge/MS_SQL_Server-000?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/Borobeyka)
 [![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)](https://github.com/Borobeyka)
 [![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)](https://github.com/Borobeyka)
-[![Alembic](https://img.shields.io/badge/Alembic-000?style=for-the-badge&logo=alembic)](https://github.com/Borobeyka)
 [![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP)](https://github.com/Borobeyka)
 [![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=Arduino)](https://github.com/Borobeyka)
 [![Processing](https://img.shields.io/badge/Processing-000?style=for-the-badge&logo=Processing%20Foundation)](https://github.com/Borobeyka)
