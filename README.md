@@ -2,7 +2,7 @@
 Comming updates... ;)
 ```
 
-![](https://komarev.com/ghpvc/?username=borobeyka&color=blue)
+![](https://komarev.com/ghpvc/?username=borobeyka&color=blue&style=plastic)
 
 
 Стек:
