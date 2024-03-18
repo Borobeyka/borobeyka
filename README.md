@@ -9,7 +9,7 @@ Comming updates... ;)
 
 Остальное:
 
-[![Other](https://skillicons.dev/icons?i=html,css,bootstrap,less,sass,arduino,p5js&perline=7)]()
+[![Other](https://skillicons.dev/icons?i=html,css,bootstrap,less,sass,arduino,js,p5js&perline=7)]()
 
 Операционные системы:
 
