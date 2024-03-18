@@ -8,12 +8,12 @@ Comming updates... ;)
 
 ### Стек:
 
-[![Stack](https://skillicons.dev/icons?i=py,fastapi,docker,postman,flask,redis,postgres,rabbitmq,mongodb,mysql,elasticsearch,git,gitlab,cpp,cs,php,wordpress&perline=8)]()
+[![Stack](https://skillicons.dev/icons?i=py,fastapi,docker,postman,flask,redis,postgres,rabbitmq,mongodb,mysql,elasticsearch,git,gitlab,cpp,cs,php,wordpress&perline=8)](https://github.com/Borobeyka)
 
 ### Остальное:
 
-[![Other](https://skillicons.dev/icons?i=html,css,bootstrap,less,sass,arduino,js,p5js&perline=8)]()
+[![Other](https://skillicons.dev/icons?i=html,css,bootstrap,less,sass,arduino,js,p5js&perline=8)](https://github.com/Borobeyka)
 
 ### Операционные системы:
 
-[![Other](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu&perline=8)]()
+[![Other](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu&perline=8)](https://github.com/Borobeyka)
