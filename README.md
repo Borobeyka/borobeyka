@@ -2,6 +2,8 @@
 Comming updates... ;)
 ```
 
+![](https://komarev.com/ghpvc/?username=borobeyka)
+
 
 Стек:
 
