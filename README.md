@@ -4,7 +4,7 @@ Comming updates... ;)
 
 
 
-![](https://komarev.com/ghpvc/?username=borobeyka&color=blue&style=plastic)
+![](https://komarev.com/ghpvc/?username=borobeyka&color=blue&style=for-the-badge)
 
 ### Стек:
 
