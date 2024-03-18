@@ -2,8 +2,9 @@
 Comming updates... ;)
 ```
 
-![](https://komarev.com/ghpvc/?username=borobeyka&color=blue&style=plastic)
 
+
+<div style="text-align: right">![](https://komarev.com/ghpvc/?username=borobeyka&color=blue&style=plastic)</div>
 
 Стек:
 
