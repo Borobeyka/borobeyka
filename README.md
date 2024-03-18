@@ -1,4 +1,4 @@
-![image](https://github.com/Borobeyka/borobeyka/assets/47686912/4ead8f13-f076-4f51-bdb6-6358e00ab15e)```
+```
 Comming updates... ;)
 ```
 
