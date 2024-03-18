@@ -4,7 +4,7 @@ Comming updates... ;)
 
 
 
-<div style="text-align: right">![](https://komarev.com/ghpvc/?username=borobeyka&color=blue&style=plastic)</div>
+<div style="text-align: right"> ![](https://komarev.com/ghpvc/?username=borobeyka&color=blue&style=plastic) </div>
 
 Стек:
 
