@@ -16,4 +16,4 @@ Comming updates... ;)
 
 ### Операционные системы:
 
-[![Other](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu&perline=8)](https://github.com/Borobeyka)
+[![Other](https://skillicons.dev/icons?i=apple,windows,linux,kali,ubuntu&perline=8)](https://github.com/Borobeyka)
